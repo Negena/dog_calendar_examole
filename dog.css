@@ -1,0 +1,53 @@
+.cla{
+  position: absolute;
+  width:120%;
+   float: right;
+}
+
+.pic {
+  position: relative;
+  width: 100%;
+  left:0px;
+  right:0px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 36%;
+  right:10%;
+  color: white;
+  font-size : 39px;
+
+}
+
+table {
+  position: absolute;
+  width : 100%;
+  left : 0px;
+ rigth : 0px;
+  font-family : sans-serif;
+  border : 1px solid black;
+  padding : 5px;
+  margin: 10px;
+  color : black;
+}
+
+th , td {
+  border : 2px solid black;
+  padding : 28px;
+}
+
+.one {
+  background-color : #6FC6BE;
+}
+.two{
+  background-color : #F0AF4B;
+}
+
+.odd {
+  background-color : #D6B2E6;
+}
+
+.even {
+  background-color : #B4DC7E;
+}
